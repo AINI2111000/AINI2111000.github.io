@@ -87,7 +87,7 @@
      <th>缩写</th>
      <th>浓度</th>
      <th>持续时间</th>
-     <th><a href="https://ruancang.net">特征</a></th>
+     <th><a href="https://github.com/AINI2111000/AINI2111000.github.io.git">特征</a></th>
     </tr>
 
     <tr>
