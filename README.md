@@ -128,6 +128,5 @@
   <audio id="audio1" autoplay="autoplay" src="music/Richard Sanderson - Reality.flac" preload>
    对不起，您的浏览器不支持HTML5音频API
   </audio>
-  < a href=" ">< img src="img/返回首页.jpg" /></ a>
  </body>
 </html>
