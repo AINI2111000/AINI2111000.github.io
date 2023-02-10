@@ -87,7 +87,7 @@
      <th>缩写</th>
      <th>浓度</th>
      <th>持续时间</th>
-     <th><a href="AINI2111000/wengyiling.github.io/AEADME.md">特征</a></th>
+     <th><a href="https://ruancang.net">特征</a></th>
     </tr>
 
     <tr>
