@@ -86,7 +86,7 @@
      <th>缩写</th>
      <th>浓度</th>
      <th>持续时间</th>
-     <th><a href="AINI2111000.github.io/ kkkkk..html">特征</a></th>
+     <th><a href="www.4399.com">特征</a></th>
     </tr>
 
     <tr>
