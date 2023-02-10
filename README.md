@@ -87,7 +87,7 @@
      <th>缩写</th>
      <th>浓度</th>
      <th>持续时间</th>
-     <th><a href="http://47.100.171.25/3636/">特征</a></th>
+     <th><a href="http://47.100.171.25/3636/kkkkkk.html">特征</a></th>
     </tr>
 
     <tr>
